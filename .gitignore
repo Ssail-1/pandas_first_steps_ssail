@@ -1,3 +1,22 @@
+# ===== ENTORNOS VIRTUALES =====
+.venv/
+venv/
+
+# ===== JUPYTER =====
+.ipynb_checkpoints/
+
+# ===== PYTHON CACHE =====
+__pycache__/
+*.pyc
+
+# ===== VS CODE (config local) =====
+.vscode/
+
+# ===== ARCHIVOS TEMPORALES =====
+*.log
+*.tmp
+*~
+
+# ===== ARCHIVOS DEL SISTEMA =====
 .DS_Store
-.ipynb_checkpoints
-.venv
+Thumbs.db
